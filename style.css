@@ -59,3 +59,25 @@ html {
   a:hover {
     color: #c00;
   }
+
+  body {
+    animation: color-change 1s infinite;
+  }
+  
+  @keyframes color-change {
+    0% {
+      background-color: #FF5733;
+    }
+    25% {
+      background-color: #C70039;
+    }
+    50% {
+      background-color: #581845;
+    }
+    75% {
+      background-color: #900C3F;
+    }
+    100% {
+      background-color: #FFC300;
+    }
+  }
