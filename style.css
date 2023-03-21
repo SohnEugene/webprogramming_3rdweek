@@ -19,7 +19,7 @@ html {
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: #d5f479;
+    color: white;
     text-shadow: 3px 3px 1px black;
   }
   
@@ -69,13 +69,13 @@ html {
       background-color: #FF5733;
     }
     25% {
-      background-color: #C70039;
+      background-color: #41ffd9;
     }
     50% {
-      background-color: #581845;
+      background-color: #ff1ebb;
     }
     75% {
-      background-color: #900C3F;
+      background-color: #6dff48;
     }
     100% {
       background-color: #FFC300;
